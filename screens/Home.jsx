@@ -1,4 +1,4 @@
-import { View, Text, SafeAreaView } from "react-native";
+import { Text, SafeAreaView } from "react-native";
 import tw from "tailwind-react-native-classnames";
 
 const Home = () => {
